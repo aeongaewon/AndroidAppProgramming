@@ -2,7 +2,7 @@
 
 <br>
 
-> 교재 ***do it 깡샘의 안드로이드 앱 프로그래밍 with 코틀린*** 을 기반 Android App Programming 스터디 레포지터리입니다.
+> 교재 ***do it 깡샘의 안드로이드 앱 프로그래밍 with 코틀린*** 기반 Android App Programming 스터디입니다.
 > 
 > 매챕터별 PPT 및 구현 코드를 업로드합니다.
 
